@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sarat
+Build-Jdk: 10.0.2
+Implementation-Title: SpringBoot_
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot_
+Created-By: Maven Integration for Eclipse
+
